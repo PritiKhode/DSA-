@@ -16,7 +16,7 @@ int main()
     cout<<" "<<endl;
 
     //sort(arr.begin(),arr.end());     //  it arrange the array in ascending order 
-    reverse(arr.begin(),arr.end());    // it reverse thw hole array
+    reverse(arr.begin(),arr.end());    // it reverse the whole array
     for(int i=0;i<arr.size();i++){
         cout<<arr[i]<<" ";
     }
