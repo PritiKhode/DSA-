@@ -21,7 +21,7 @@ int main()
     cout<<"ELement found at index no  :"<<result<<endl;
 }
 else 
-{
+{                                        
     cout<<"Element is not found"<<endl;
 }
 
